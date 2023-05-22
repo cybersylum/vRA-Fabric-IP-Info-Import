@@ -2,7 +2,7 @@
 
 # define vars for environment
 $ImportFile = "fabric-ip-info.csv"
-$vRAServer = "vra8@domain.com"
+$vRAServer = "vra8.domain.com"
 $NetworkProfileID = "d33d9120-1b57-4e7e-3B8d-e75e35228078" # ProfileID to be updated
 $vRAUser = "user@domain.com"
 
