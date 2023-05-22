@@ -2,9 +2,9 @@
 
 # define vars for environment
 $ImportFile = "fabric-ip-info.csv"
-$vRAServer = "user@domain.com"
-$NetworkProfileID = "d33d2120-1b57-4e7e-8973-e75e35328078" # ProfileID to be updated
-$vRAUser = "kinger@cybersylum.com"
+$vRAServer = "vra8@domain.com"
+$NetworkProfileID = "d33d9120-1b57-4e7e-3B8d-e75e35228078" # ProfileID to be updated
+$vRAUser = "user@domain.com"
 
 # Load input file
 if (-not(Test-Path -Path $ImportFile -PathType Leaf)) {
