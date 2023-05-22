@@ -1,0 +1,8 @@
+﻿Agency Description,VLAN_ID,IP_SUBNET,IP_GATEWAY,DNS1,DNS2,DNS_SEARCH,DOMAIN
+vlan101,101,10.129.1.1/24,10.129.1.1,10.129.1.14,10.129.4.14,cybersylum.com,cybersylum.com
+vlan102,102,10.129.2.1/24,10.129.2.1,10.129.1.14,10.129.4.14,cybersylum.com,cybersylum.com
+vlan103,103,10.129.3.1/24,10.129.3.1,10.129.1.14,10.129.4.14,cybersylum.com,cybersylum.com
+vlan104,104,10.129.4.1/24,10.129.4.1,10.129.4.14,10.129.1.14,iss.cybersylum.com,iss.cybersylum.com
+vlan106,106,10.129.6.1/24,10.129.6.1,10.129.1.14,10.129.4.14,cybersylum.com,cybersylum.com
+vlan107,107,10.129.7.1/24,10.129.7.1,10.129.1.14,10.129.4.14,cybersylum.com,cybersylum.com
+vlan105,105,10.129.5.1/24,10.129.5.1,10.129.1.14,10.129.4.14,cybersylum.com,cybersylum.com
